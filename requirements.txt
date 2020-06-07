@@ -1,8 +1,12 @@
-Pillow==6.0.0
-pkg-resources==0.0.0
+appdirs==1.4.4
+distlib==0.3.0
+filelock==3.0.12
+Pillow==6.2.1
 pyaes==1.6.1
 pyasn1==0.4.5
+python-utils==2.4.0
 pytz==2019.1
 rsa==4.0
+six==1.15.0
 Telethon==1.8.0
-
+virtualenv==20.0.21

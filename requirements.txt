@@ -1,7 +1,7 @@
 appdirs==1.4.4
 distlib==0.3.0
 filelock==3.0.12
-Pillow==6.2.1
+Pillow==8.2.0
 pyaes==1.6.1
 pyasn1==0.4.5
 python-utils==2.4.0
